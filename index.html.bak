@@ -241,11 +241,11 @@
 	
 
 	<!-- awards and skills -->
-	
+		<!-- 
 	<div class="awards-bg-agile" id="skills">
 		<div class="container">
 			
-				<!-- 
+			
 			<div class="col-md-6 awards-agileits-w3layouts">
 				<div class="title-wthree">
 					<h5 class="title-w3"><span>04</span>Awards</h5>
@@ -292,7 +292,6 @@
 				</div>
 			</div>
 			
-	-->
 			
 			<div class="col-md-6 skills-w3layouts">
 				<div class="title-wthree">
@@ -326,6 +325,7 @@
 			</div>
 		</div>
 	</div>
+	-->
 	<!-- //awards and skills -->
 	
 	<!-- <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网站建设</a></div>-->
